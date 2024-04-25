@@ -1,0 +1,53 @@
+body {
+  background: #000000;
+}
+
+p {
+  margin: 0;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+}
+
+.bg_body {
+  background-color: #797979;
+  color: hsl(0, 0%, 0%);
+}
+
+#img_perfil {
+  height: 70%;
+  width: auto;
+}
+
+.no-margin {
+  margin: 0 !important;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+#size_footer {
+  background-color: #343A40;
+}
+
+main section {
+  display: flex;
+}
+
+.card {
+  background-color: #131313;
+  color: #4CE0D2;
+  height: 250px;
+}
+
+section div h5:hover {
+  color: #df0f0f;
+}
+
+footer {
+  margin: 0;
+  padding: 0;
+}
